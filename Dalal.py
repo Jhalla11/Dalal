@@ -438,7 +438,7 @@ class Main:
 			print("")
 			time.sleep(2.0)
 			print("")
-			input("\n\033[1;32m  [▪]Type My YouTube Name \033[1;34m:  \033[1;33m")
+			input("\n\033[1;32m  [▪]Type My Facebook Name \033[1;34m:  \033[1;33m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;37m Successful ")
